@@ -1,4 +1,4 @@
-public class Category {
+public class Category {//
     private String name;
     public  Category (){
         this.name ="Default Category";
