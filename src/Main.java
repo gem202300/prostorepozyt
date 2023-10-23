@@ -1,4 +1,4 @@
-public class Main {
+public class Main {//Dodano testowy kod do funkcji main() w celu sprawdzenia funkcjonalnosci klas
     public static void main(String[] args) {
         Category category = new Category();
         test(category);
@@ -8,7 +8,7 @@ public class Main {
         test(category);
         category.setName("Ivan");
         test(category);
-        System.out.println(); //
+        System.out.println(); 
 
     }
     public static void test(Category category ){
