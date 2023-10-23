@@ -8,7 +8,7 @@ public class Main {
         test(category);
         category.setName("Ivan");
         test(category);
-        System.out.println();
+        System.out.println(); //
 
     }
     public static void test(Category category ){
